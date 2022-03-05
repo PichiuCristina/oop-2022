@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646463765 source:c:\users\cristina\documents\github\oop-2022\laborator2_\problema2\main.cpp
+	<iostream>
+	"Class.h"
+	"GlobalClass.h"
+	<cstring>
+
+1646463765 c:\users\cristina\documents\github\oop-2022\laborator2_\problema2\class.h
+
+1646463765 c:\users\cristina\documents\github\oop-2022\laborator2_\problema2\globalclass.h
+

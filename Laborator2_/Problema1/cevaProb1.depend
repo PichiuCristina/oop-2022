@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646463552 source:c:\cb\cevaprob1\numberlist.cpp
+	<iostream>
+	"NumberList.h"
+
+1646463552 c:\cb\cevaprob1\numberlist.h
+
