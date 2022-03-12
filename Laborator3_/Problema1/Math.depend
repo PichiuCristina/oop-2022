@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1647072315 source:c:\cb\math\main.cpp
+	<iostream>
+	<cstring>
+	"Math.h"
+
+1647072440 c:\cb\math\math.h
+
+1647072401 source:c:\cb\math\math.cpp
+	<iostream>
+	"Math.h"
+	<cstring>
+	<cstdarg>
+	<stdio.h>
+	<cstdlib>
+
