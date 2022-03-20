@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1647769847 source:c:\cb\laborator4\sort.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<cstring>
+	"Sort.h"
+
+1647705617 c:\cb\laborator4\sort.h
+
+1647770742 source:c:\cb\laborator4\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Sort.h"
+
+1647770742 source:c:\users\cristina\desktop\laborator4_\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Sort.h"
+
+1647705617 c:\users\cristina\desktop\laborator4_\sort.h
+
+1647769847 source:c:\users\cristina\desktop\laborator4_\sort.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<stdarg.h>
+	<cstring>
+	"Sort.h"
+
