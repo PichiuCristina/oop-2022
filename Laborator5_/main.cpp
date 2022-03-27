@@ -116,7 +116,7 @@ int main()
     n1.Print();
     cout<<endl;
     cout<<"Verificare daca operatorul - ( friend function)"<<endl;
-    Number n5=12; //am initializat cu o valoare de tip int => avem nevoie de un constructor cu un parametru de tip int;
+    Number n5=12; 
     Number n6=10;
     Number n7=n5-n6;
     Number n8=n5+n6;
