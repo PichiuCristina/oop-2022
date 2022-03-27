@@ -10,7 +10,7 @@ int main()
 {
     int x,b,c;
     char *a;
-    cout<<"Numarul1 pe baza caruia veti realiza conversii si operatii:";
+    cout<<"Numarul1 pe baza caruia se vor realiza conversii si operatii:";
     cin>>a;
     cout<<endl;
     cout<<"Baza in care se afla numarul:";
@@ -31,7 +31,7 @@ int main()
     n1.SwitchBase(x);
     cout<<endl;
 
-    cout<<"Numarul2 pe baza caruia veti realiza conversii si operatii:";
+    cout<<"Numarul2 pe baza caruia se vor realiza conversii si operatii:";
     cin>>a;
     cout<<endl;
     cout<<"Baza in care se afla numarul2:";
