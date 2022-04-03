@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1648991967 source:c:\cb\laborator6\circuit.cpp
+	<iostream>
+	<stdlib.h>
+	"Circuit.h"
+	"Car.h"
+	<cstring>
+	<algorithm>
+
+1648991963 c:\cb\laborator6\circuit.h
+	"Dacia.h"
+	"Ford.h"
+	"Mazda.h"
+	"Mercedes.h"
+	"Toyota.h"
+	"Car.h"
+	"Weather.h"
+
+1648991749 c:\cb\laborator6\dacia.h
+	"Car.h"
+
+1648991246 c:\cb\laborator6\car.h
+
+1648991246 c:\cb\laborator6\ford.h
+
+1648991548 c:\cb\laborator6\mazda.h
+
+1648991246 c:\cb\laborator6\mercedes.h
+
+1648991318 c:\cb\laborator6\toyota.h
+
+1648992890 c:\cb\laborator6\weather.h
+
+1648991936 source:c:\cb\laborator6\dacia.cpp
+	<iostream>
+	"Dacia.h"
+	"Car.h"
+	"Circuit.h"
+
+1648991246 source:c:\cb\laborator6\ford.cpp
+	<iostream>
+	"Car.h"
+	"Ford.h"
+
+1648991247 source:c:\cb\laborator6\mazda.cpp
+	<iostream>
+	"Car.h"
+	"Mazda.h"
+
+1648992890 source:c:\cb\laborator6\mercedes.cpp
+	<iostream>
+	"Car.h"
+	"Mercedes.h"
+
+1648991247 source:c:\cb\laborator6\toyota.cpp
+	<iostream>
+	"Car.h"
+	"Toyota.h"
+
+1648992746 source:c:\cb\laborator6\main.cpp
+	<iostream>
+	"Dacia.h"
+	"Toyota.h"
+	"Mazda.h"
+	"Mercedes.h"
+	"Ford.h"
+	"Car.h"
+	"Circuit.h"
+
