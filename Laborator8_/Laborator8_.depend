@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1652002944 source:c:\cb\laborator8_\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<map>
+	<cstring>
+	<queue>
+
